@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sqp_p5n_cz">
+    <title>How to have fun in Chicago</title>
+    <shortdesc>If you're not a raging alcoholic, this guide is for you.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Chicago is a really fun place with really cool architecture and fun things to see.
+                Below is a list of things to do in the Windy City.</p>
+        </context>
+        <steps-unordered>
+            <step>
+                <cmd>Brunch at Publican Anker. Found on the corner of N Milwaukee and N Damen
+                    avenues, this "industrial-chic gastropub" offers the best brunch of my life.
+                    Cost: about $20, including coffee and tip</cmd>
+            </step>
+            <step>
+                <cmd>Deep-dish pizza at Giordano's. Deep-dish pizza is delicious and includes an
+                    inch of cheese with only a little bit of sauce on top. Get the spinach so you
+                    feel healthy, but still eat half of the 8-inch. Cost: $26</cmd>
+            </step>
+            <step>
+                <cmd>Skydeck at Willis Tower. Going up 103 levels allows for really awesome views.
+                    Taking selfies anywhere other than the boxed overlook is pointless because of
+                    the brightness of the window, so don't bother. Cost: $23</cmd>
+            </step>
+            <step>
+                <cmd>The Art Institute of Chicago. Like really old Impressionist, Romantic, and
+                    Renaissance art, with a smattering of Asian art? Enjoy casually strolling out of
+                    the Metropolitan Museum of Art in New York City? Then this is the museum for
+                    you. Cost: $23 + coat check.</cmd>
+            </step>
+            <step>
+                <cmd>Cloud Gate. Otherwise known as the bean, this is a great place to get a
+                    stranger to take a picture for you to post on Instagram later to let all your
+                    friends know you're in Chicago. Cost: Free</cmd>
+            </step>
+            <step>
+                <cmd>Emporium Barcade. Part bar (serving mostly craft beer) and part arcade (with
+                    classic games such as Pac-Man and Pinball), beware of creepy 40-year-old men who
+                    tell you you look out of place in a bar of other 20-somethings. Make sure you
+                    bring cash for the token machine. Cost: No cover, but you do have to buy your
+                    own beer. Don't forget to leave a tip. </cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

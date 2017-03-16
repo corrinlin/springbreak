@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xmv_25n_cz">
+    <title>How to pay for this trip</title>
+    <shortdesc>Good things in life cost money. This is one of those good things.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps-unordered>
+            <step>
+                <cmd>Look at your bank account well before we go to Chicago.</cmd>
+            </step>
+            <step>
+                <cmd>Try to save about $200 to $300 before the trip so you can feel free to buy
+                    things.</cmd>
+            </step>
+            <step>
+                <cmd>Remember that your suitcase is stuffed as it is, so you won't need to be buying
+                    any clothes.</cmd>
+            </step>
+            <step>
+                <cmd>The majority of what you're buying is food, so plan for leaving tips.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

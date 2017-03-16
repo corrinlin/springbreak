@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_c3b_jqn_cz">
+ <title>Welcome to Spring Break 2k17</title>
+ <shortdesc>Finally, a week off from class and school. To celebrate, let's go to Chicago. </shortdesc>
+ <conbody>
+  <p>This year we're going to Chicago for three days before heading back to Virginia Beach for the
+      rest of the week. It's going to be a fun time with museums, brunch, the Chicago Bean (Cloud
+      Gate), the Willis Tower Skydeck, and eating deep dish pizza. <image placement="break"
+        href="../images/pizzaslice.jpg" id="image_lfb_xsn_cz"/></p>
+  <p>Look at how good that looks, aren't you excited? We're also going to this museum, the Art
+      Institute of Chicago, which was recently named the World's Best Museum, to see if it really
+      stands up to that title. <image placement="break" href="../images/Art-Institute.jpg"
+        id="image_gnz_tsn_cz"/>
+    </p>
+  <p>We're going to be staying with Amanda in her apartment, so pack your suitcase and let's get to
+      it.</p>
+ </conbody>
+</concept>

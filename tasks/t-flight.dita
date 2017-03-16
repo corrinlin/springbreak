@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mft_btn_cz">
+    <title>How we're getting to Chicago</title>
+    <shortdesc>Put on your seatbelts because this is going to be a wild ride.</shortdesc>
+    <taskbody>
+        <context>We're driving from Blacksburg to the Norfolk airport, flying to Atlanta, then
+            connecting to Chicago, and then catching an Uber to 1049 Ashland Avenue. Estimated total
+            travel time: 13 hours.</context>
+        <steps>
+            <step>
+                <cmd>Leave Blacksburg at 11am on Friday, March 3, 2017, to have enough time for the
+                    actual drive (5 hrs) and expected spring break traffic from JMU, UVa, and other
+                    local colleges.</cmd>
+            </step>
+            <step>
+                <cmd>Arrive at Virginia Beach around 5pm.</cmd>
+            </step>
+            <step>
+                <cmd>Drop Carlisle off at her house in Virginia Beach.</cmd>
+            </step>
+            <step>
+                <cmd>Go to my house in Virginia Beach and unpack the car.</cmd>
+            </step>
+            <step>
+                <cmd>Move the things needed for Chicago to my mom's car.</cmd>
+            </step>
+            <step>
+                <cmd>My mom will leave the house to drive us to the Norfolk airport at 5:45pm.</cmd>
+            </step>
+            <step>
+                <cmd>Go to the Delta terminal, check in, and get our boarding passes.</cmd>
+            </step>
+            <step>
+                <cmd>Get on the plane around 7pm and fly to Atlanta (DL 1378).</cmd>
+            </step>
+            <step>
+                <cmd>At Atlanta, walk to another terminal to catch flight DL 1812 to Chicago.</cmd>
+            </step>
+            <step>
+                <cmd>At the Chicago airport, download the Uber app on your smartphone. Follow the
+                    directions within the app to link it to your credit card, and then to schedule a
+                    ride from the airport.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
